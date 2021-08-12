@@ -26,3 +26,9 @@ Investigate the structure of the response you get back and extract the relevant 
 ### 5. Perform Descriptive Analysis
 
 Interpret visualizations related to the price range, average rating, and number of reviews for all query results.
+
+
+#### Note: Please download the image aswell when marking.
+
+
+#### Author: Jimmy C.
