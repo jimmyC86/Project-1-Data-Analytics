@@ -1,6 +1,6 @@
 # Yelp-API-Project
 
-In this project I conducted an in depth analysis on Pizza businesses in New York, NY below are some highlights what was covered in my project file.
+In this project I conducted an in depth analysis on Pizza businesses in New York, NY below is a table of content that shows what was covered in my project file.
 
 
 # Table of Content
